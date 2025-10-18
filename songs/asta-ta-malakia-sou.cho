@@ -4,17 +4,24 @@
 {key: Am }
 {time: 3/4 }
 
-{start_of_chorus}
+{start_of_verse}
 [Am]Άστα τα μαλλάκια [E]σου ανακατωμ[Am]ένα
 [Am]άστα ν' ανεμίζουνε στ[E]ην τρελή νοτι[Am]ά 
 Τ[Dm]ώρα που τα νι[Am]άτα σου ε[E]ίν' ολανθισμ[Am]ένα
 [Dm]Άστα τα μαλλ[Am]άκια σου [E]ανακατωμ[Am]ένα
-{end_of_chorus}
 
-{start_of_verse}
 [C]Τη γαλάζια θάλασσα κο[G]ίτα την πλατι[C]ά
 [C]κι άστα ν' ανεμίζουνε στ[B7]ην τρελ[C]ή νοτι[E]ά
 {end_of_verse}
+
+{start_of_chorus}
+[Dm]Άστα τα μαλλ[Am]άκια σου [E]ανακατωμ[Am]ένα
+[Dm]άστα ν' ανε[Am]μίζουνε στ[E]ην τρελή νοτι[Am]ά
+{end_of_chorus}
+
+{start_of_bridge}
+[E] [E] [Am] [Am] [E] [E] [Am] [E|Am]
+{end_of_bridge}
 
 {start_of_verse}
 Ήρθε τώρα η άνοιξη, θα 'ρθει καλοκαίρι
