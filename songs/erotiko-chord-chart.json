@@ -208,6 +208,75 @@
         }
       ],
       "name": "Στροφή 1"
+    },
+    {
+      "currentPattern": [
+        3
+      ],
+      "currentTimeSignature": "3/4",
+      "id": 1761067795533,
+      "lines": [
+        {
+          "cells": [
+            {
+              "chords": [
+                "E"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "E"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1761067809583,
+          "pattern": [
+            2,
+            2
+          ],
+          "timeSignature": "4/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "G"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1761067859913,
+          "pattern": [
+            2,
+            2
+          ],
+          "timeSignature": "4/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Am"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1761067873596,
+          "pattern": [
+            3
+          ],
+          "timeSignature": "3/4"
+        }
+      ],
+      "name": "Αγαπη που σε λεγαν Αντιγόνη"
     }
   ]
 }
