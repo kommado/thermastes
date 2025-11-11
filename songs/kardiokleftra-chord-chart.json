@@ -1579,6 +1579,59 @@
             ]
           ],
           "timeSignature": "5/8"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Em"
+              ],
+              "ticks": 3
+            },
+            {
+              "chords": [
+                "Em"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1762889295540,
+          "noteDurations": [
+            8,
+            8
+          ],
+          "pattern": [
+            3,
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 4,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "5/8"
         }
       ],
       "name": "Chorus",
