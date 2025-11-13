@@ -842,6 +842,7 @@
           "timeSignature": "5/8"
         }
       ],
+      "measuresPerRow": 2,
       "name": "Intro",
       "repeatCount": 1
     },
@@ -1634,6 +1635,7 @@
           "timeSignature": "5/8"
         }
       ],
+      "measuresPerRow": 2,
       "name": "Chorus",
       "repeatCount": 2
     },
@@ -2373,6 +2375,7 @@
           "timeSignature": "5/8"
         }
       ],
+      "measuresPerRow": 2,
       "name": "refren",
       "repeatCount": 2
     },
@@ -3059,6 +3062,7 @@
           "timeSignature": "5/8"
         }
       ],
+      "measuresPerRow": 2,
       "name": "post chorus",
       "repeatCount": 1
     }
