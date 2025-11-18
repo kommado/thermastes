@@ -842,7 +842,7 @@
           "timeSignature": "5/8"
         }
       ],
-      "measuresPerRow": 2,
+      "measuresPerRow": 3,
       "name": "Intro",
       "repeatCount": 1
     },
@@ -1635,7 +1635,7 @@
           "timeSignature": "5/8"
         }
       ],
-      "measuresPerRow": 2,
+      "measuresPerRow": 3,
       "name": "Chorus",
       "repeatCount": 2
     },
@@ -2375,7 +2375,7 @@
           "timeSignature": "5/8"
         }
       ],
-      "measuresPerRow": 2,
+      "measuresPerRow": 3,
       "name": "refren",
       "repeatCount": 2
     },
@@ -3062,7 +3062,7 @@
           "timeSignature": "5/8"
         }
       ],
-      "measuresPerRow": 2,
+      "measuresPerRow": 3,
       "name": "post chorus",
       "repeatCount": 1
     }
