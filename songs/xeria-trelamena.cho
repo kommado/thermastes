@@ -4,6 +4,8 @@
 {key: F#m}
 {time: 6/8}
 
+{define A# display Bb}
+
 {start_of_verse}
 [F#m] Η θάλασσα έχει κύματα,
 [Bm] η κουταλιά κανένα
@@ -12,7 +14,7 @@
 {strart_of_verse}
 
 {start_of_bridge}
-Bm³ | F#m³, ⁹Em³ | F#m³ | F#m³
+[Bm³] [F#m³] [⁹Em³] [F#m³] [F#m³]
 {end_of_bridge}
 
 {start_of_chorus}
@@ -26,7 +28,7 @@ F#m Em F#m, Bm3|F#m3, Em3|F#m3
 {start_of_chorus}
 
 {start_of_bridge}
-Bm³ | F#m³, ⁹Em³ | F#m³
+[Bm³] [F#m³] [⁹Em³] [F#m³]
 {end_of_bridge}
 
 {start_of_verse}
