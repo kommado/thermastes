@@ -331,9 +331,9 @@
       "currentRhythmSequences": [
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -348,9 +348,9 @@
         ],
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -360,9 +360,9 @@
         ],
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -377,9 +377,9 @@
         ],
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -451,9 +451,9 @@
           "rhythmSequences": [
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -468,9 +468,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -480,9 +480,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -497,9 +497,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -559,9 +559,9 @@
           "rhythmSequences": [
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -576,9 +576,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -588,9 +588,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -605,9 +605,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -645,9 +645,9 @@
       "currentRhythmSequences": [
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -662,9 +662,9 @@
         ],
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -674,9 +674,9 @@
         ],
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -691,9 +691,9 @@
         ],
         [
           {
-            "bassDegree": null,
+            "bassDegree": "I",
             "duration": 8,
-            "isBass": false
+            "isBass": true
           },
           {
             "bassDegree": null,
@@ -765,9 +765,9 @@
           "rhythmSequences": [
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -782,9 +782,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -794,9 +794,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -811,9 +811,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -873,9 +873,9 @@
           "rhythmSequences": [
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -890,9 +890,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -902,9 +902,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
@@ -919,9 +919,9 @@
             ],
             [
               {
-                "bassDegree": null,
+                "bassDegree": "I",
                 "duration": 8,
-                "isBass": false
+                "isBass": true
               },
               {
                 "bassDegree": null,
