@@ -390,6 +390,223 @@
       "measuresPerRow": 4,
       "name": "Εισαγωγή",
       "repeatCount": 1
+    },
+    {
+      "currentNoteDurations": [
+        8
+      ],
+      "currentPattern": [
+        2
+      ],
+      "currentRhythm": null,
+      "currentRhythmSequences": [
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          },
+          {
+            "bassDegree": "V",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          }
+        ]
+      ],
+      "currentStrongBeats": [
+        true,
+        false
+      ],
+      "currentTimeSignature": "2/4",
+      "id": 1773087781342,
+      "measures": [
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087787801,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087814023,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087826419,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "A",
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087865722,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        }
+      ],
+      "measuresPerRow": 4,
+      "name": "Στοιχος",
+      "repeatCount": 2
     }
   ]
 }
