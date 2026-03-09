@@ -211,6 +211,180 @@
             ]
           ],
           "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087640178,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087649063,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "A"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087656331,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm",
+                "A",
+                "Dm"
+              ],
+              "ticks": 2
+            }
+          ],
+          "id": 1773087686797,
+          "noteDurations": [
+            8
+          ],
+          "pattern": [
+            2
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": "V",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "2/4"
         }
       ],
       "measuresPerRow": 4,
