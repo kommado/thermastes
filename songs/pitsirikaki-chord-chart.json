@@ -1,0 +1,1104 @@
+{
+  "sections": [
+    {
+      "currentNoteDurations": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "currentPattern": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "currentRhythm": null,
+      "currentRhythmSequences": [
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          }
+        ]
+      ],
+      "currentStrongBeats": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "currentTimeSignature": "9/8",
+      "id": 1779619906617,
+      "measures": [
+        {
+          "cells": [
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779619925237,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779619989627,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        }
+      ],
+      "measuresPerRow": 1,
+      "name": "intro",
+      "repeatCount": 1
+    },
+    {
+      "currentNoteDurations": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "currentPattern": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "currentRhythm": null,
+      "currentRhythmSequences": [
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          }
+        ]
+      ],
+      "currentStrongBeats": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "currentTimeSignature": "9/8",
+      "id": 1779620050461,
+      "measures": [
+        {
+          "cells": [
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779620057837,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        }
+      ],
+      "measuresPerRow": 1,
+      "name": "Kouple",
+      "repeatCount": 3
+    },
+    {
+      "currentNoteDurations": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "currentPattern": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "currentRhythm": null,
+      "currentRhythmSequences": [
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 16,
+            "isBass": false
+          }
+        ],
+        [
+          {
+            "bassDegree": "I",
+            "duration": 8,
+            "isBass": true
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          },
+          {
+            "bassDegree": null,
+            "duration": 8,
+            "isBass": false
+          }
+        ]
+      ],
+      "currentStrongBeats": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "currentTimeSignature": "9/8",
+      "id": 1779620220329,
+      "measures": [
+        {
+          "cells": [
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779620226302,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779620275190,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779620290714,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        },
+        {
+          "cells": [
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "F"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "C"
+              ],
+              "ticks": 2
+            },
+            {
+              "chords": [
+                "Dm"
+              ],
+              "ticks": 3
+            }
+          ],
+          "id": 1779620299983,
+          "noteDurations": [
+            8,
+            8,
+            8,
+            8
+          ],
+          "pattern": [
+            2,
+            2,
+            2,
+            3
+          ],
+          "rhythm": null,
+          "rhythmSequences": [
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 16,
+                "isBass": false
+              }
+            ],
+            [
+              {
+                "bassDegree": "I",
+                "duration": 8,
+                "isBass": true
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              },
+              {
+                "bassDegree": null,
+                "duration": 8,
+                "isBass": false
+              }
+            ]
+          ],
+          "timeSignature": "9/8"
+        }
+      ],
+      "measuresPerRow": 1,
+      "name": "refren",
+      "repeatCount": 1
+    }
+  ]
+}
